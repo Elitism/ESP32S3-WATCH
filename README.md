@@ -1,7 +1,9 @@
 FOR ARDUINO IDE:
 REQUIRED LIB: https://files.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-2.06/ESP32-S3-Touch-AMOLED-2.06-Demos.zip
 BOARD MANAGER URL: https://espressif.github.io/arduino-esp32/package_esp32_index.json
-
+![1000018984](https://github.com/user-attachments/assets/508c3cb3-2734-49c5-9d44-9ff132c05fef)
+![1000018987](https://github.com/user-attachments/assets/33c37c65-3663-4d48-b712-c0d67f95baad)
+![1000018988](https://github.com/user-attachments/assets/83a91135-9a83-43c0-a3ee-3c7e0f44f8c3)
 
 The two files *.ino and *.py are the only two files you need.
 
