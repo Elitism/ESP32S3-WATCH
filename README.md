@@ -11,10 +11,12 @@ Feel free to fork and update!
 
 Watch code allows you to enter the ip and port of the server to connect to the pc on your LAN.
 
-1. Upload ino to watch (takes for bloody ever)
-2. Open the server on PC by double clicking it...
-3. Enter the ip:port on the watch...
+ ###### (use aveshare-ESP32-S3-TOUCH-LCD-2.1) No idea why 2.06 not there.#####
+0. Select the board: Waveshare-ESP32-S3-TOUCH-LCD-2.1
+2. Upload ino to watch (takes for bloody ever) 
+3. Open the server on PC by double clicking it...
+4. Enter the ip:port on the watch...
 ... desktop on the watch!
 
-
+WARNING:
 DO NOT USE THIS IN SCHOOLS TO SPY ON COMPUTERS, THIS IS AN EDUCATIONAL TOOL/
