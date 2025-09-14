@@ -11,8 +11,8 @@
 using namespace websockets;
 
 // ===================== NETWORK CONFIG =====================
-const char* ssid     = "EE-A2563P";
-const char* password = "mthj19051986-";
+const char* ssid     = "EE-A25693P";
+const char* password = "mthj190519986-";
 String serverIp      = "";   // entered on-screen (e.g. "192.168.0.83:81")
 
 // ===================== GLOBAL OBJECTS =====================
@@ -371,3 +371,4 @@ void connectWebsocketNonBlocking() {
         }
     }
 }
+
