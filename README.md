@@ -15,3 +15,6 @@ Watch code allows you to enter the ip and port of the server to connect to the p
 2. Open the server on PC by double clicking it...
 3. Enter the ip:port on the watch...
 ... desktop on the watch!
+
+
+DO NOT USE THIS IN SCHOOLS TO SPY ON COMPUTERS, THIS IS AN EDUCATIONAL TOOL/
